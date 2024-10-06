@@ -4,11 +4,17 @@
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
+    "dev:local": "nuxt dev --tunnel",
     "generate": "nuxt generate",
     "preview": "nuxt preview"
   },
   "dependencies": {
     "@nuxt/content": "^2.13.2",
+    "@nuxt/ui": "^2.18.6",
+    "@vueuse/core": "^11.1.0",
     "nuxt": "^3.13.0"
+  },
+  "devDependencies": {
+    "@nuxthq/studio": "^2.1.1"
   }
 }
