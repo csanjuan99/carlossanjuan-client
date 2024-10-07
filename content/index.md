@@ -1,3 +1,7 @@
+---
+title: Carlos Sanjuan - Fullstack Developer
+---
+
 ::app-navbar
 ::
 
